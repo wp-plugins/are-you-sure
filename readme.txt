@@ -1,4 +1,4 @@
-=== Album Cover Finder ===
+=== Are You sure? ===
 Contributors: urre
 Donate link: http://urre.me/donate
 Tags: publishing, confirmation
