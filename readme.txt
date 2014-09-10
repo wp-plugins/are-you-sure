@@ -1,9 +1,9 @@
-=== Are You Sure? ===
+=== Album Cover Finder ===
 Contributors: urre
 Donate link: http://urre.me/donate
 Tags: publishing, confirmation
 Requires at least: 3.0
-Tested up to: 3.9.1
+Tested up to: 4.0
 Stable tag: 0.1
 
 Are You Sure? adds a confirmation dialogue to the Publish button.
@@ -11,9 +11,7 @@ Are You Sure? adds a confirmation dialogue to the Publish button.
 == Description ==
 
 Sometimes you accidentally publish a post or a page on your WordPress that was not intended to go live. Accidental Publishing can be (not in all cases) a problem if you have automated the publishing process further, such as sharing the post to Facebook, Twitter, IFTT or maybe even content sent to email subscribers.
-With this plugin, theese things can be avoided.
-
-Are You Sure? adds a confirmation dialogue to the Publish button.
+With this plugin, theese things can be avoided. Are You Sure? adds a confirmation dialogue to the Publish button.
 
 
 == Installation ==
